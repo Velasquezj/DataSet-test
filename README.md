@@ -1,4 +1,4 @@
-Welcome to the Data Science & Analytics takehome exam. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to emi.nakatsugawa@dowjones.com within four days of receiving the exam.
+Welcome to the Data Science & Analytics takehome exam. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to emi.nakatsugawa@dowjones.com within three days of receiving the exam.
 
 ## Scenario
 
